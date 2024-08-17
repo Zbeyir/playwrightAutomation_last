@@ -1,0 +1,24 @@
+// https://www.youtube.com/watch?v=zF3ftXEj5Aw&list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH
+
+///----steps----///
+//önce gitHub ' da repo create ettik bizim projemizin adina
+--> sonra Plawright ' da--> .gitignore --> fiele kurduk
+
+hangilerinin gidip gitmeyecegini git status ile kontrol ettik ve istemediklerimiz i  .gitignore 'a yükledik
+
+
+
+git init
+git status
+git add
+git add filename or git add .
+
+git commit -m "first code commit"   
+git log
+
+git branch
+git branch -M main  --> eger master barnch in adini degistirmek istersen
+
+git remote add origin https://github.com/Zbeyir/playwrightAutomation_last.git;  --> bunu github kendisi veriyor
+
+git push -u origin master            
