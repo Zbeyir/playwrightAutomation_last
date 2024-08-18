@@ -23,5 +23,5 @@ test('Home Page', async ({page})=>{
 // npx playwright test artik bunu yazmiyoruz hangi test'i calsitirmak istiy isek onu yaziyoruz 
 // npx playwright test P01_HomePageTest.spec.js
 // npx playwright test P01_HomePageTest.spec.js --project=chromium
-// npx playwright test P01_HomePageTest.spec.js --project=chromium --headed
+// npx playwright test tests/P01_HomePageTest.spec.js --project=chromium --headed
 // npx playwright test P01_HomePageTest.spec.js --project=chromium --debug

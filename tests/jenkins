@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=FZ5NlP1hL9A
+
+https://www.youtube.com/watch?v=1_Zs0gQq1Yc&list=PL6flErFppaj35spJjPy41-lruDjw2kRV-
+
+https://www.youtube.com/watch?v=FX322RVNGj4&list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa
+
+
+// adini degistirdm
+mv /Users/admin/Downloads/jenkins.war ~/jenkins.war
+java -jar ~/jenkins.war
+
+
+*************************************************************
+
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+541e4b451dcb4d63a95eee12e6cbe04b
+
+This may also be found at: /Users/admin/.jenkins/secrets/initialAdminPassword
+
+*************************************************************
+
+Zubeyir
+451dcb4d63a95e
+zubeyirtabanoglu@gmail.com
+Zubeyir

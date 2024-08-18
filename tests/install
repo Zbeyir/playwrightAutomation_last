@@ -1,0 +1,34 @@
+//--1----> Nodejs---> install
+
+--> https://nodejs.org/en   --> dowload
+
+//--2--> visual studio code download
+
+--> https://code.visualstudio.com/download
+
+Windows'ta Command Prompt --> cmd (yani terminal demek windows da)
+
+buray ---> bunu yaz
+--> node -v --> verion u gör hem yüklenip yüklenmedigini kontrol edersin
+--> veya ---> node --version
+--> npm -v
+
+//--3--> create project folder --> open in VSCode
+
+//--4--> install playwright using terminal
+
+---> https://playwright.dev/docs/intro
+
+--> npm init playwright@latest
+
+-->  npm playwright -v
+
+run the playwright test --> npx playwright test
+
+--------
+---> package.json-->node project managment file   ( alle depedincies hier)
+
+---> playwright.config.js--> playwright spesifik configuration file (dann hier configiritet)
+
+---> tests--> ich kann create all tests dies paket
+
