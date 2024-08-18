@@ -53,7 +53,20 @@ git branch -M main  --> eger master barnch in adini degistirmek istersen
 
 git remote add origin https://github.com/Zbeyir/playwrightAutomation_last.git;  --> bunu github kendisi veriyor
 
-git push -u origin master            
+git push -u origin master  
+
+
+--------)))))
+///////////////////////////////////////////////
+echo "# test_example" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Zbeyir/test_example.git
+git push -u origin main
+--------)))))
+///////////////////////////////////////////////
 */
 
 
